@@ -18,7 +18,7 @@ header {
     background-color: #0077b6;
     color: white;
     text-align: center;
-    padding: 0 20px;
+    padding: 10PX 20px;
     border-radius: 10px;
     transform: translateY(-10%);
 }
@@ -32,7 +32,7 @@ img.logoBlog {
 }
 
 header h1 {
-     transform: translateY(90%); 
+     transform: translateY(10%); 
     margin-bottom: 0;
 }
 
@@ -147,7 +147,7 @@ textarea {
 }
 
 button {
-    background-color: #0077b6;
+    background-color: #0495e2;
     color: white;
     border: none;
     padding: 12px;
