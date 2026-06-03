@@ -1,0 +1,19 @@
+Classes existentes no projeto AOP02 -BLOG:
+
+- cabeçalho
+- direcionamento
+- Titulo
+- C
+- pagina
+- completa
+- titulo
+- conteudo
+- tema
+- roteiro
+
+Arquivos analisados:
+- paghome.html
+- nome_conteudo-1.html
+- nome_conteudo-2.html
+- nome_conteudo-3.html
+- contatos.html
